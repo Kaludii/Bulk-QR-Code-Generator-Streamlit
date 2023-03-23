@@ -6,6 +6,8 @@ This is a simple Streamlit web app for generating QR codes based on user input. 
 # Web App
 Click [Here](https://huggingface.co/spaces/Kaludi/QR-Code-Generator-Streamlit_App "Here") To View This App Online!
 
+![image](https://user-images.githubusercontent.com/63890666/227362083-2c2ae2c0-11cf-4328-8679-857a1dc96fb0.png)
+
 ## Features
 
 -   Generate QR codes for URLs or plain text
