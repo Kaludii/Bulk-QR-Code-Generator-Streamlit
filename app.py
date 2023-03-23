@@ -26,7 +26,7 @@ def get_url_filename(url):
 
 
 # Streamlit app title
-st.title("QR Code Generator")
+st.title("Bulk QR Code Generator")
 st.write("This is a simple Streamlit web app for generating QR codes based on user input. You can choose between generating a QR code for a URL or plain text with the ability to generate multiple URLs at once.")
 
 # QR code content options
